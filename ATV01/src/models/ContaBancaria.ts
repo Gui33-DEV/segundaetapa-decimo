@@ -1,4 +1,5 @@
-import { ContaProps } from "../interface/ContaProps.js";
+import { ContaProps } from "../interface/ContaProps.js
+";
 
 export abstract class ContaBancaria<T extends ContaProps> {
 
